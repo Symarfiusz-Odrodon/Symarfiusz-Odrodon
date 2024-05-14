@@ -1,11 +1,11 @@
-<h1 align="center">Cześć i chwała, Z tej strony Szymon!</h1>
+<h1 align="center">Cześć i chwała, z tej strony Szymon!</h1>
 <h3 align="center">Polski i swojski chłop o zainteresowaniach programistyczno-artysycznych.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symarfiusz-renesans&label=Profile%20views&color=0e75b6&style=flat" alt="symarfiusz-renesans" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symarfiusz-renesans" alt="symarfiusz-renesans" /></a> </p>
 
-- Na chwilę obecną pracuję nad [projektem o ps. "KsiegaNadziei"](jest prywatny :()
+- Na chwilę obecną pracuję nad projektem o ps. "KsiegaNadziei"
 
 - Uczę się teraz **Rust**
 
