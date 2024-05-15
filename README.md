@@ -44,3 +44,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symarfiusz-renesans&show_icons=true&locale=en&layout=compact" alt="symarfiusz-renesans" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symarfiusz-renesans&show_icons=true&locale=en" alt="symarfiusz-renesans" /></p>
+
+[![Symarfiusz-Renesans's GitHub | Stats](https://stats.quine.sh/Symarfiusz-Renesans/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Symarfiusz-Renesans)
+[![Symarfiusz-Renesans's GitHub | Languages Over Time](https://stats.quine.sh/Symarfiusz-Renesans/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Symarfiusz-Renesans)[![Symarfiusz-Renesans's GitHub | Topics Over Time](https://stats.quine.sh/Symarfiusz-Renesans/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Symarfiusz-Renesans)
