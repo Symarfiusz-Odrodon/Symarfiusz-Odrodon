@@ -34,8 +34,8 @@
 
 <h3 align="left">Inne sposoby komunikacji:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/szymon marcin patalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymon marcin patalita" height="30" width="40" /></a>
-<a href="https://fb.com/szymon patalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="szymon patalita" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/szymon-marcin-patalita-947667309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymon marcin patalita" height="30" width="40" /></a>
+<a href="https://fb.com/szymon.patalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="szymon patalita" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Znane mi języki i narzędzia:</h3>
