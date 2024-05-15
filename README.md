@@ -1,6 +1,25 @@
 <h1 align="center">Cześć i chwała, z tej strony Szymon!</h1>
 <h3 align="center">Polski i swojski chłop o zainteresowaniach programistyczno-artysycznych.</h3>
 
+<p>Nazywam się Szymon Marcin Pio Patalita i na chwilę obecną chodzę do technikum informatycznego na profil programisty.</p>
+<p>Moimi zainteresowaniami są:</p>
+<ol>
+  <li>Programowanie aplikacji:</li>
+  <ul>
+    <li>internetowych,</li>
+    <li>bazodanowych,</li>
+    <li>komputerowych,</li>
+    <li>moblinych,</li>
+  </ul>
+  <li>Rysowanie (na komputerze i na kartce),</li>
+  <li>Modelowanie 3D,</li>
+  <li>Pisanie opowiadań i scenariuszy,</li>
+  <li>Grotwórstwo,</li>
+  <li>Światotwórstwo,</li>
+  <li>Słowotwórstwo,</li>
+  <li>Bieganie i jazda na rowerze.</li>
+</ol>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symarfiusz-renesans&label=Profile%20views&color=0e75b6&style=flat" alt="symarfiusz-renesans" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symarfiusz-renesans" alt="symarfiusz-renesans" /></a> </p>
