@@ -1,4 +1,4 @@
-<h1 align="center">Cześć i chwała, z tej strony Szymon!</h1>
+<h1 align="center">Cześć, z tej strony Szymon!</h1>
 <h3 align="center">Polski i swojski chłop o zainteresowaniach programistyczno-artysycznych.</h3>
 
 <div style="display: flex; flex-direction: row;">
